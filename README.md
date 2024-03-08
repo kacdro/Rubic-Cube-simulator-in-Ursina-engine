@@ -20,10 +20,16 @@ The program initially iterates through the coordinates of successive cube models
 The most important functions of the program include:
 
 def parent_kid_inherit(): A function for inheriting the position of the cube to determine its position after rotation.
+
 def input(key): It reads keyboard inputs and triggers the appropriate functions.
+
 def replay_moves(): A function responsible for reviewing gameplay.
+
 def is_overview(): A function that displays a message on the screen when the overview mode is activated.
+
 def reverse(): A function responsible for undoing cube movements.
+
 def reset_cube(): A function that resets the cube to its initial state.
+
 def reset_camera(): It restores the camera to its initial position.
 

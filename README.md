@@ -25,11 +25,11 @@ The most important functions of the program include:
 
 - def replay_moves(): A function responsible for reviewing gameplay.
 
-def is_overview(): A function that displays a message on the screen when the overview mode is activated.
+- def is_overview(): A function that displays a message on the screen when the overview mode is activated.
 
-def reverse(): A function responsible for undoing cube movements.
+- def reverse(): A function responsible for undoing cube movements.
 
-def reset_cube(): A function that resets the cube to its initial state.
+- def reset_cube(): A function that resets the cube to its initial state.
 
-def reset_camera(): It restores the camera to its initial position.
+- def reset_camera(): It restores the camera to its initial position.
 

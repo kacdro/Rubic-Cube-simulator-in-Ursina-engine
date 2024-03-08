@@ -21,3 +21,5 @@ def is_overview(): A function that displays a message on the screen when the ove
 def reverse(): A function responsible for undoing cube movements.
 def reset_cube(): A function that resets the cube to its initial state.
 def reset_camera(): It restores the camera to its initial position.
+
+![image](https://github.com/kacdro/Rubic-Cube-simulator-in-Ursina-engine/assets/100469610/a8cce47c-441d-4862-8ba7-4c5f8dc93445)
